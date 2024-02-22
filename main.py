@@ -23,7 +23,7 @@ def main():
     print(f"Total wage : {total_wage:.2f}")
     print (f"Regular hours worked: {regular_hours_worked} Regular Pay: {regular_wage}")
    ##################################################
-    # overtime = workhours - reg_hours
+     # overtime = workhours - reg_hours
     # overtime_wage = overtime * ov_rate
     # regular_wage = reg_hours * reg_rate
     # total_wage = regular_wage + overtime_wage
